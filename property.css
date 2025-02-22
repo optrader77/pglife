@@ -1,0 +1,226 @@
+body {
+    height:100%;
+    width:100%;
+    overflow-y: scroll;
+    overflow: auto;
+}
+
+.head-bot {
+    height:40px;
+    background-color:rgba(147, 110, 180, 0.144);
+}
+
+.anchor {
+    position: relative;
+    height: 50%;
+    top : 25%;
+}
+
+
+.div-fil {
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+}
+
+.fill-img {
+    position: absolute;
+    width: 40px;
+    top: 250px;
+    left :600px;
+    border-color: black;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+   
+    
+}
+
+.fill-text {
+    position: absolute;
+    width: 40px;
+    top: 262px;
+    left :650px;
+    
+}
+
+.fill-img2 {
+    position: absolute;
+    width: 40px;
+    top: 250px;
+    left :850px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    
+}
+
+.fill-text2 {
+    position: absolute;
+    width: 500px;
+    top: 262px;
+    left :900px;
+    
+}
+
+.fill-img3 {
+    position: absolute;
+    width: 40px;
+    top: 250px;
+    left :1150px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    
+}
+
+.fill-text3 {
+    position: absolute;
+    width: 500px;
+    top: 262px;
+    left :1200px;
+    
+}
+
+.prop-1 {
+    position: absolute;
+    height: 250px;
+    width: 40%;
+     top:320px;
+    left:31%;
+    background-color: rgb(255, 255, 255);
+}
+
+.prop-2 {
+    position: absolute;
+    top:56%;
+    height: 250px;
+    width: 40%;
+    left:31%;
+    background-color: rgb(255, 255, 255);
+}
+
+.prop-3 {
+    position: absolute;
+    top:108%;
+    height: 250px;
+    width: 100%;
+    left:0%;
+    background-color: rgb(255, 255, 255);
+}
+
+.img-1{
+    position: absolute;
+    height: 80%;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.star-1 {
+    position: absolute;
+    height: 10%;
+    left: 40%;
+    top: 20px;
+    background-color: rgb(228,228,228);
+}
+
+.prop1-h3 {
+    position: absolute;
+    top:22%;
+    left:40%;
+}
+
+.prop1-p {
+    position: relative;
+    top:35%;
+    left:40%
+}
+
+.prop1-h2 {
+    position: absolute;
+    top:75%;
+    left:41%;
+}
+
+.a1 {
+    position: absolute;
+    top: 78%;
+    left:57%;
+}
+
+.gender-img {
+    position: absolute;
+    height: 25%;
+    width: 10%;
+    top:45%;
+    left:38%;
+}
+
+.but {
+    position: absolute;
+    padding: 10px;
+    width: 100px;
+    top:78%;
+    left:80%;
+    padding-left: 35px;
+    background-color: rgb(48, 145, 224);
+}
+
+.view {
+    color: aliceblue;
+    font-weight:bold;
+}
+.img-2{
+    position: absolute;
+    height: 80%;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.star-2 {
+    position: absolute;
+    height: 10%;
+    left: 40%;
+    top: 20px;
+    background-color: rgb(228,228,228);
+}
+
+.prop2-h3 {
+    position: absolute;
+    top:22%;
+    left:40%;
+}
+
+.prop2-p {
+    position: relative;
+    top:35%;
+    left:40%
+}
+
+.prop2-h2 {
+    position: absolute;
+    top:75%;
+    left:41%;
+}
+
+.a {
+    position: absolute;
+    top: 78%;
+    left:57%;
+}
+
+.gender-img {
+    position: absolute;
+    height: 25%;
+    width: 10%;
+    top:45%;
+    left:40%;
+}
+
+.but1 {
+    position: absolute;
+    padding: 10px;
+    width: 100px;
+    top:78%;
+    left:80%;
+    padding-left: 35px;
+    background-color: rgb(48, 145, 224);
+}
